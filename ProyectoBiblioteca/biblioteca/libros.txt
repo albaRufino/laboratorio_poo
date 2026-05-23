@@ -1,0 +1,3 @@
+001,Apuntes del subsuelo,Fiodor,1880
+002,El castillo,kafka,1926
+003,Un mundo felix,huxley,1932

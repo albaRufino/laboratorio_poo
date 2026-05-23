@@ -1,0 +1,5 @@
+1,Estudiar Java,Completada
+2,Hacer ejercicio,Completada
+3,Hacer tarea de Proba,Completada
+4,Hacer PIA de Dora,Completada
+5,Hacer PIA de fundamento de redes,Completada

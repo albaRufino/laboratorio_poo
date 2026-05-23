@@ -1,0 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
+ */
+package Transportes;
+
+/**
+ *
+ * @author alba
+ */
+public interface ICobroDePasaje {
+    public String cobrarPasaje(double dinero);    
+}
